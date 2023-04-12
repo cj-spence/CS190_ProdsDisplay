@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "CN0iGj3Ke7O8ukFKIzrys6KwGNJTpi5TeWigqggS/TuKFdM8nm7IUcu1fq3rBjGula3ILjsRPquKmQUaHtuHkg==",
+  "success": true,
+  "projectFilePath": "/Users/cj/Desktop/coding/prods_console_display/Products_Console_w_Display/Products_Console_w_Display.csproj",
+  "expectedPackageFiles": [
+    "/Users/cj/.nuget/packages/microsoft.extensions.logging.abstractions/6.0.0/microsoft.extensions.logging.abstractions.6.0.0.nupkg.sha512",
+    "/Users/cj/.nuget/packages/npgsql/7.0.2/npgsql.7.0.2.nupkg.sha512",
+    "/Users/cj/.nuget/packages/system.runtime.compilerservices.unsafe/6.0.0/system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
